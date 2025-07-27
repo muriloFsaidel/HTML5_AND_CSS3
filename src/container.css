@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+header {
+    background-color: #00FFFF;
+    height: 80px;
+    padding: 20px;    
+}
+
+a {
+    font-size: 30px;
+    color: white;
+}
+
+footer {
+    clear: both;
+    background-color: #00FFFF;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+}
+
+#div_esquerda {
+    background-color: red;
+    min-height: 200px;
+    width: 60%;
+    float: left;
+}
+#div_direita {
+    background-color:  yellow;
+    min-height: 200px;
+    width: 40%;
+    float: right;
+}
